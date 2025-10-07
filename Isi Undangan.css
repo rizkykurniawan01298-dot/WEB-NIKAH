@@ -1,0 +1,182 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.ssatu{
+    background-image: url(https://img.freepik.com/foto-premium/pemandangan-musim-dingin-yang-megah-hutan-pinus-dengan-pepohonan-yang-tertutup-salju-adegan-dramatis-dengan-awan-hitam-rendah-tenang-sebelum-badai_146671-9833.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+        padding: auto;
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+
+
+}
+.satu{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 10px;
+}
+.satu p {
+  margin-bottom: 10px;
+}
+
+.satu h1 {
+  margin: 15px 0;
+}
+
+.satu h2, .satu h3 {
+  margin: 8px 0;
+}
+
+.satu h2, p, a {
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+}
+.satu h1{
+ font-family: 'alex brush', cursive;
+ font-size: 60px
+}
+.satu h2 b{
+    font-family: 'alex brush', cursive;
+}
+.dua{
+  background-image: url(https://st.depositphotos.com/32210676/55032/i/450/depositphotos_550328446-stock-photo-white-cement-background-new-surface.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+   min-height: 100vh; 
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+
+
+}
+.Mempelai{
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ margin: 0px auto;
+}
+.gambar{
+ border-radius: 50%;
+
+  
+}
+.Mempelai .gambar, .gambar2 {
+  display: inline-block;     
+  text-align: center;        
+  margin: 20px;              
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.gambar img, .gambar2 img {
+  width: 180px;            
+  height: 180px;             
+  object-fit: cover;        
+  border-radius: 50%;        
+  border: none;   
+}
+
+.gambar p, .gambar2 p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  margin-top: 10px;
+  color: black;
+  font-weight: 600;
+}
+.Mempelai h1{
+ font-family: 'alex brush', cursive;
+ font-size: 60px
+}
+.gambar3{
+  justify-content: center;
+  text-align: center;
+  align-items: center; 
+  object-fit: cover;
+  width: 50%;
+  margin: 0 auto;
+  margin-right: 350px;
+  
+}
+.galeri h1{
+   font-family: 'alex brush', cursive;
+   font-size: 60px;
+ 
+}
+.galeri{
+  text-align: center;
+ align-items: center;
+ justify-content: center;
+ margin: 10px;
+  background-image: url(https://media.istockphoto.com/id/1193925118/id/foto/latar-belakang-tekstur-salju-dengan-ruang-salin-untuk-teks-lanskap-murni-bersalju-polos.jpg?s=612x612&w=0&k=20&c=sJtWLoaB-5aYg0HvdN1HDehs018lRGeF_WMqtDXIyM4=);
+  background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+   min-height: 100vh; 
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+.gambar3 img{
+  padding: 10px;
+  border: 5px solid rgb(0, 0, 0);
+  border-radius: 10px;
+}
+.komen{
+  background-color: rgb(198, 210, 222 , 0.5);
+  width: 40%;
+  margin: 200px auto;
+  padding: 5px 2px;
+
+}
+.komen h2{
+  font-family: 'alex brush', cursive;
+   font-size: 60px;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+}
+footer{
+  background-color: whitesmoke;
+  padding: 10px auto;
+  text-align: center;
+  align-items: center;
+}
+.coment{
+   background-image: url(https://img.freepik.com/foto-premium/pemandangan-musim-dingin-yang-megah-hutan-pinus-dengan-pepohonan-yang-tertutup-salju-adegan-dramatis-dengan-awan-hitam-rendah-tenang-sebelum-badai_146671-9833.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+        padding: auto;
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+justify-content: center;
+align-items: center;
+color: black;
+}
+button.btn{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: rgb(114, 168, 222);
+  color: aliceblue;
+}

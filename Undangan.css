@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://img.freepik.com/foto-premium/pemandangan-musim-dingin-yang-megah-hutan-pinus-dengan-pepohonan-yang-tertutup-salju-adegan-dramatis-dengan-awan-hitam-rendah-tenang-sebelum-badai_146671-9833.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+
+}
+.satu{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 125px;
+    
+    
+}
+.kotaksatu{
+    border: 1px none;
+    background-color:rgb(198, 210, 222 , 0.5);
+    width: 23%;
+    margin-left: 250px;
+    margin: 0 auto;
+    padding: 10PX 10px;
+}
+h2, p, a {
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+}
+h1{
+ font-family: 'alex brush', cursive;
+ font-size: 60px;
+}
+button{
+border-radius: 100px;
+padding: 10px 10px;
+
+}
